@@ -1,0 +1,45 @@
+body{
+  font-family: "sailec";
+  margin-left: 8%;
+  margin-top: 5%;
+}
+
+input[type=checkbox]{
+  font-size: 1.8em;
+  color: red;
+  background-color: blue;
+}
+
+img{
+  width:100px;
+  height:100px;
+}
+
+h2{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.options{
+
+  display: inline-flex;
+  flex-direction: row;
+}
+
+.column{
+  display: flex;
+  flex-direction: column;
+  margin-right: 5%;
+}
+
+.medboi{
+  display: inline;
+  margin-left:3%;
+}
+
+.bigboi{
+  display: flex;
+}
+
+.title{
+  display: inline;
+}
